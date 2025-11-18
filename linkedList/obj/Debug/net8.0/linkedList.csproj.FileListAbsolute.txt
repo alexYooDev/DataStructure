@@ -1,0 +1,15 @@
+/Users/alexyoodev/2025/DS_A/DS/linkedList/obj/Debug/net8.0/linkedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexyoodev/2025/DS_A/DS/linkedList/obj/Debug/net8.0/linkedList.AssemblyInfoInputs.cache
+/Users/alexyoodev/2025/DS_A/DS/linkedList/obj/Debug/net8.0/linkedList.AssemblyInfo.cs
+/Users/alexyoodev/2025/DS_A/DS/linkedList/obj/Debug/net8.0/linkedList.csproj.CoreCompileInputs.cache
+/Users/alexyoodev/2025/DS_A/DS/linkedList/obj/Debug/net8.0/linkedList.sourcelink.json
+/Users/alexyoodev/2025/DS_A/DS/linkedList/bin/Debug/net8.0/linkedList
+/Users/alexyoodev/2025/DS_A/DS/linkedList/bin/Debug/net8.0/linkedList.deps.json
+/Users/alexyoodev/2025/DS_A/DS/linkedList/bin/Debug/net8.0/linkedList.runtimeconfig.json
+/Users/alexyoodev/2025/DS_A/DS/linkedList/bin/Debug/net8.0/linkedList.dll
+/Users/alexyoodev/2025/DS_A/DS/linkedList/bin/Debug/net8.0/linkedList.pdb
+/Users/alexyoodev/2025/DS_A/DS/linkedList/obj/Debug/net8.0/linkedList.dll
+/Users/alexyoodev/2025/DS_A/DS/linkedList/obj/Debug/net8.0/refint/linkedList.dll
+/Users/alexyoodev/2025/DS_A/DS/linkedList/obj/Debug/net8.0/linkedList.pdb
+/Users/alexyoodev/2025/DS_A/DS/linkedList/obj/Debug/net8.0/linkedList.genruntimeconfig.cache
+/Users/alexyoodev/2025/DS_A/DS/linkedList/obj/Debug/net8.0/ref/linkedList.dll
