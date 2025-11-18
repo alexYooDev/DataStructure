@@ -1,0 +1,14 @@
+/Users/alexyoodev/2025/DS_A/DS/linearList/bin/Debug/net8.0/linearList
+/Users/alexyoodev/2025/DS_A/DS/linearList/bin/Debug/net8.0/linearList.deps.json
+/Users/alexyoodev/2025/DS_A/DS/linearList/bin/Debug/net8.0/linearList.runtimeconfig.json
+/Users/alexyoodev/2025/DS_A/DS/linearList/bin/Debug/net8.0/linearList.dll
+/Users/alexyoodev/2025/DS_A/DS/linearList/bin/Debug/net8.0/linearList.pdb
+/Users/alexyoodev/2025/DS_A/DS/linearList/obj/Debug/net8.0/linearList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexyoodev/2025/DS_A/DS/linearList/obj/Debug/net8.0/linearList.AssemblyInfoInputs.cache
+/Users/alexyoodev/2025/DS_A/DS/linearList/obj/Debug/net8.0/linearList.AssemblyInfo.cs
+/Users/alexyoodev/2025/DS_A/DS/linearList/obj/Debug/net8.0/linearList.csproj.CoreCompileInputs.cache
+/Users/alexyoodev/2025/DS_A/DS/linearList/obj/Debug/net8.0/linearList.dll
+/Users/alexyoodev/2025/DS_A/DS/linearList/obj/Debug/net8.0/refint/linearList.dll
+/Users/alexyoodev/2025/DS_A/DS/linearList/obj/Debug/net8.0/linearList.pdb
+/Users/alexyoodev/2025/DS_A/DS/linearList/obj/Debug/net8.0/linearList.genruntimeconfig.cache
+/Users/alexyoodev/2025/DS_A/DS/linearList/obj/Debug/net8.0/ref/linearList.dll
