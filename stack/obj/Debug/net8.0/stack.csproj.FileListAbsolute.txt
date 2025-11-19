@@ -1,0 +1,15 @@
+/Users/alexyoodev/2025/DS_A/DS/stack/obj/Debug/net8.0/stack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexyoodev/2025/DS_A/DS/stack/obj/Debug/net8.0/stack.AssemblyInfoInputs.cache
+/Users/alexyoodev/2025/DS_A/DS/stack/obj/Debug/net8.0/stack.AssemblyInfo.cs
+/Users/alexyoodev/2025/DS_A/DS/stack/obj/Debug/net8.0/stack.csproj.CoreCompileInputs.cache
+/Users/alexyoodev/2025/DS_A/DS/stack/obj/Debug/net8.0/stack.sourcelink.json
+/Users/alexyoodev/2025/DS_A/DS/stack/bin/Debug/net8.0/stack
+/Users/alexyoodev/2025/DS_A/DS/stack/bin/Debug/net8.0/stack.deps.json
+/Users/alexyoodev/2025/DS_A/DS/stack/bin/Debug/net8.0/stack.runtimeconfig.json
+/Users/alexyoodev/2025/DS_A/DS/stack/bin/Debug/net8.0/stack.dll
+/Users/alexyoodev/2025/DS_A/DS/stack/bin/Debug/net8.0/stack.pdb
+/Users/alexyoodev/2025/DS_A/DS/stack/obj/Debug/net8.0/stack.dll
+/Users/alexyoodev/2025/DS_A/DS/stack/obj/Debug/net8.0/refint/stack.dll
+/Users/alexyoodev/2025/DS_A/DS/stack/obj/Debug/net8.0/stack.pdb
+/Users/alexyoodev/2025/DS_A/DS/stack/obj/Debug/net8.0/stack.genruntimeconfig.cache
+/Users/alexyoodev/2025/DS_A/DS/stack/obj/Debug/net8.0/ref/stack.dll
